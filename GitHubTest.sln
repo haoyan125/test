@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubTest", "GitHubTest\GitHubTest.csproj", "{68AB2892-E042-4140-B585-42FAA5CD6976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubTest.Tests", "GitHubTest.Tests\GitHubTest.Tests.csproj", "{0092E13A-D90A-44B0-8D1F-20198354ADF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68AB2892-E042-4140-B585-42FAA5CD6976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AB2892-E042-4140-B585-42FAA5CD6976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AB2892-E042-4140-B585-42FAA5CD6976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AB2892-E042-4140-B585-42FAA5CD6976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0092E13A-D90A-44B0-8D1F-20198354ADF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0092E13A-D90A-44B0-8D1F-20198354ADF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0092E13A-D90A-44B0-8D1F-20198354ADF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0092E13A-D90A-44B0-8D1F-20198354ADF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
