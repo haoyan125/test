@@ -12,5 +12,10 @@ namespace GitHubTest.Controllers
     {
       return View();
     }
+
+    public void TestCI()
+    {
+
+    }
   }
 }
